@@ -1,5 +1,5 @@
-# P02-20
-Primero Realizamos un git clone "URL" en ambas carpetas
-Hacemos el cambio en la carpeta casa y ponemos los comandos git commit -m "" con una leve explicacion de lo anteriormente realizado y un git push "URL"
-En la CarpetaInstituto hacemo un git pull "URL" para tener los cambios anteriormente realizados en la carpeta casa, hacemos un cambio local, un git commit -m "",
-y un git push "URL"
+P02-40 
+Hacemos git tag "Nombre de etiqueta" para crear una etiqueta y git checkout "Nombre rama" para movernos entre ramas
+Al movernos al primer commit no podemos hacer ningun cambio porque el proyecto desaparece de la carpeta
+git push --tags "URL" para poder subir al repositorio las etiquetas
+git pull desde la carpetaInstituto para coger las etiquetas
