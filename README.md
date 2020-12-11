@@ -8,7 +8,7 @@
     -git push origin HEAD:main
  Y luego git log --graph --oneline --decorate --all para ver el grafico, que nos da como resultado:
  
-    * bdaf332 (HEAD -> main, origin/main, origin/HEAD) Cambios en la rama principal
+* bdaf332 (HEAD -> main, origin/main, origin/HEAD) Cambios en la rama principal
 | * 07c5d8e (rama) Cambio desde otra rama
 |/
 * 1174f0d Update README.md
